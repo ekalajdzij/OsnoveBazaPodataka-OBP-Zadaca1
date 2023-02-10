@@ -1,1 +1,2 @@
-# OsnoveBazaPodataka-OBP-Zadaca1
+# OsnoveBazaPodataka 2022/23
+# Zadaca 1
